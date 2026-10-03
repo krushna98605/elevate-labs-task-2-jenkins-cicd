@@ -1,0 +1,22 @@
+{
+  "name": "elevate-labs-task-2-jenkins-cicd",
+  "version": "1.0.0",
+  "description": "Node.js application for Jenkins CI/CD pipeline",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "node --test"
+  },
+  "keywords": [
+    "nodejs",
+    "jenkins",
+    "cicd",
+    "docker",
+    "devops"
+  ],
+  "author": "Krushna Maswadkar",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
